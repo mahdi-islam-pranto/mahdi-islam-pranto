@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Mobile Application Development**
 
-- 🌱 I’m currently learning **Android, Full Stack**
+- 🌱 I’m currently learning **Android, Full Stack, AI/ML**
 
 - 📫 How to reach me **mahdiprantoblog@gmail.com**
 
